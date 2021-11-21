@@ -5,7 +5,7 @@
 <p><b>Code with your Mates</b>- Code, Learn, Chat, Talk, and Resolve your doubts while coding with your friends, classmates or even random folks, all on a single platform !  </p>
 
 <br>
-Give it a try here :- https://codemate-app.herokuapp.com/
+Give it a try here :- https://code--mate.herokuapp.com/
 <br>
 <br>
 <br>
